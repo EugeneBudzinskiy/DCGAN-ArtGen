@@ -3,7 +3,6 @@
 
 ## Description
 
----
 
 This is the main module for the image generation project based on Deep Convolutional 
 Generative Adversarial Network (DCGAN). This module is responsible for pretrained 
@@ -31,8 +30,6 @@ which can be classified as a satisfactory result.
 
 ## Installation
 
----
-
 
 Implementation was written using Python 3.9 
 
@@ -51,7 +48,6 @@ and can run using GPU. Main purpose of this algorithm is to allow image upscalin
 
 ## Usage
 
----
 
 1. To start main app run [`main.py`](main.py)
 2. Using interface choose generator type, random seed, images quantity and output size
@@ -62,7 +58,6 @@ and can run using GPU. Main purpose of this algorithm is to allow image upscalin
 
 ## Credits
 
----
 
 * [Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., 
 Ozair, S., Courville, A., & Bengio, Y. (2014, June 10). Generative Adversarial 
@@ -96,6 +91,5 @@ restoration](https://github.com/xinntao/Real-ESRGAN)
 
 ## License
 
----
 
 Licensed under the [MIT](LICENSE) license.
